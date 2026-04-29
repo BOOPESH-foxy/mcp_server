@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "my-agent": {
-      "command": "python",
-      "args": ["-u", "PATH_TO_YOUR_SCRIPT/main.py"]
+      "command": "",
+      "args": ["-u", "PATH_TO_YOUR_SCRIPT/run_mcp.sh"]
     }
   }
 }
